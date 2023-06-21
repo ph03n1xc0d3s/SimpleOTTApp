@@ -1,0 +1,4 @@
+{
+  "fetchRandom" : "https://moviesdatabase.p.rapidapi.com/titles/random",
+  "loginUser" : "http://localhost:27017/login"
+}
